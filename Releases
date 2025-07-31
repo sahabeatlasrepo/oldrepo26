@@ -1,0 +1,7 @@
+Origin: oldrepo26
+Label: oldrepo26
+Suite: stable
+Codename: ios
+Architecturies: iphoneos-arm
+Components: main
+Description: repo for jailbreak
