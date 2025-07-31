@@ -2,7 +2,7 @@ Package: com.sahabeatlas.appsync32
 Version: 6.1
 Architecture: iphoneos-arm
 Maintainer: Sahabe Atlas Repo
-Filename: debs/appsync32.deb
+Filename: debs/Appsync32.deb
 Size: 52224
 Description: AppSync Unified 32-bit cihazlar için destek sağlar
 
@@ -10,6 +10,6 @@ Package: com.sahabeatlas.appsync64
 Version: 6.1
 Architecture: iphoneos-arm64
 Maintainer: Sahabe Atlas Repo
-Filename: debs/appsync64.deb
+Filename: debs/Appsync64.deb
 Size: 50176
 Description: AppSync Unified 64-bit cihazlar için destek sağlar
